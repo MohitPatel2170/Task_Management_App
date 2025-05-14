@@ -167,4 +167,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For questions or support, please reach out via [sjr.dev@protonmail.com].
+For questions or support, please reach out via [mohit.patel2170@gmail.com].
