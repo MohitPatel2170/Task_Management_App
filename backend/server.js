@@ -3,7 +3,6 @@ const mongoose = require('mongoose');
 const dotenv = require('dotenv');
 const cors = require('cors'); // Import CORS middleware
 const taskRoutes = require('./routes/taskRoutes');
-app.use('/api/tasks', taskRoutes);
 
 
 dotenv.config();
